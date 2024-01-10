@@ -60,7 +60,7 @@
 <br />
 
 # CERTIFICATE & LICENSES
-<h6  style="font-size: 32px;"> INTERNATIONAL </h6>
+<p style="font-size: 32px;"> INTERNATIONAL </p>
 
 **English Certificate TOEIC:**
 <br />
@@ -71,7 +71,7 @@
 
 ---
 
-<h6  style="font-size: 32px;"> IT ZONE (IT Club In Ton Duc Thang University) </h6>
+<p style="font-size: 32px; font-weight: 500;"> IT ZONE (IT Club In Ton Duc Thang University) </p>
 
 **In 2019:**
 <br />
