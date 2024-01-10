@@ -56,7 +56,9 @@
 
 ###### INTERNATIONAL
 *English Certificate TOEIC:*
+<br />
 *IIG Viet Nam*
+<br />
 *Total score: 585*
 ___
 
