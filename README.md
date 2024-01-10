@@ -51,11 +51,10 @@
     <a href="#"><img alt="SQL" style="margin:8px" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 <br />
-
 <br />
 
 # CERTIFICATE & LICENSES
-###### INTERNATIONAL
+###### `INTERNATIONAL`
 *English Certificate TOEIC:*
 <br />
 *IIG Viet Nam*
@@ -65,7 +64,7 @@
 
 ---
 
-###### IT ZONE (IT Club In Ton Duc Thang University)
+###### `IT ZONE (IT Club In Ton Duc Thang University)`
 **In 2019:**
 <br />
 *Design Website Certificate*
