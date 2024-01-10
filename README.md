@@ -1,13 +1,13 @@
 <!-- <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" /> -->
-<style>
+<!-- <style>
   .font-default {
     font-size: 16px;
   }
-</style>
+</style> -->
 
 # INTRODUCE
 
-*<p class="font-default">Business Analyst is an interesting position as it can provide solutions to solve problems facing businesses, requiring a clear understanding of structure, policy and operations of business. Or in other words, it is a bridge between the business perspective and the implementation perspective.</p>*
+*<p style="font-size: 16px;">Business Analyst is an interesting position as it can provide solutions to solve problems facing businesses, requiring a clear understanding of structure, policy and operations of business. Or in other words, it is a bridge between the business perspective and the implementation perspective.</p>*
 <br />
 
 <br />
@@ -15,9 +15,9 @@
 # ABOUT ME
 
 
-*<p class="font-default"> Hi,  I'm a 4th year student majoring in software engineering. I have a background in software engineering but have a keen passion for business. Having experience in Software Product Development through all school subjects, I was involved in all phases of typical SDLC. With a Software Engineering degree and my experiences, I'm confident and excited to take jobs related to  product analysis and development.</p>*
+*<p style="font-size: 16px;"> Hi,  I'm a 4th year student majoring in software engineering. I have a background in software engineering but have a keen passion for business. Having experience in Software Product Development through all school subjects, I was involved in all phases of typical SDLC. With a Software Engineering degree and my experiences, I'm confident and excited to take jobs related to  product analysis and development.</p>*
 
-*<p class="font-default"> I like to listen to my team opinions on an issue. I feel very happy to have resolved the problem. I can work under pressure, eager to learn new business and technology trends. In particular, I love to provide products that help make society better.</p>*
+*<p style="font-size: 16px;"> I like to listen to my team opinions on an issue. I feel very happy to have resolved the problem. I can work under pressure, eager to learn new business and technology trends. In particular, I love to provide products that help make society better.</p>*
 <br />
 
 <br />
@@ -60,7 +60,7 @@
 <br />
 
 # CERTIFICATE & LICENSES
-<h6 class="font-default"> INTERNATIONAL </h6>
+<h6  style="font-size: 24px;"> INTERNATIONAL </h6>
 
 **English Certificate TOEIC:**
 <br />
@@ -71,7 +71,7 @@
 
 ---
 
-<h6 class="font-default"> IT ZONE (IT Club In Ton Duc Thang University) </h6>
+<h6  style="font-size: 24px;"> IT ZONE (IT Club In Ton Duc Thang University) </h6>
 
 **In 2019:**
 <br />
