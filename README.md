@@ -60,7 +60,7 @@
 *IIG Viet Nam*
 <br />
 *Total score: 585*
-___
+<br />
 
 ###### IT ZONE (IT Club In Ton Duc Thang University)
 **In 2019:**
