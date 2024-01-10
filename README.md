@@ -64,11 +64,16 @@ ___
 
 ###### IT ZONE (IT Club In Ton Duc Thang University)
 **In 2019:**
+<br />
 *Design Website Certificate*
+<br />
 *Second Prize | Website Culinary*
+<br />
 
 **In 2020:**
+<br />
 *Design Website Certificate*
+<br />
 *Third Prize | E - Website*
 <br />
 
@@ -76,9 +81,9 @@ ___
 
 # SOFT SKILLS
 
-_• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
+*🌱 Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic.*
 <br />
-_• Ability: Management, Independent, Problem-solving, Teamwork, Communication, and Presentation._
+*💪 Ability: Management, Independent, Problem-solving, Teamwork, Communication, and Presentation.*
 <br />
 
 # LANGUAGES
