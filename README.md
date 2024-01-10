@@ -1,14 +1,14 @@
 <!-- <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" /> -->
 
 # INTRODUCE
-___
+
 *Business Analyst is an interesting position as it can provide solutions to solve problems facing businesses, requiring a clear understanding of structure, policy and operations of business. Or in other words, it is a bridge between the business perspective and the implementation perspective.*
 <br />
 
 <br />
 
 # ABOUT ME
-___
+
 *Hi,  I'm a 4th year student majoring in software engineering. I have a background in software engineering but have a keen passion for business. Having experience in Software Product Development through all school subjects, I was involved in all phases of typical SDLC. With a Software Engineering degree and my experiences, I'm confident and excited to take jobs related to  product analysis and development.*
 
 *I like to listen to my team opinions on an issue. I feel very happy to have resolved the problem. I can work under pressure, eager to learn new business and technology trends. In particular, I love to provide products that help make society better.*
@@ -17,7 +17,7 @@ ___
 <br />
 
 # BA TOOLS
-___
+
 <img align="left" alt="MS_Word" width="45px" style="margin:8px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="MS_Excel" width="45px" style="margin:8px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="MS_PowerPoint" width="45px" style="margin:8px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
@@ -36,7 +36,7 @@ ___
 <br />
 
 # PROGRAMMING LANGUAGES
-___
+
 <p>
     <a href="#"><img alt="C" style="margin:8px" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C#" style="margin:8px" height="20px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
@@ -55,7 +55,6 @@ ___
 <br />
 
 # CERTIFICATE & LICENSES
-___
 ###### INTERNATIONAL
 *English Certificate TOEIC:*
 <br />
@@ -63,6 +62,8 @@ ___
 <br />
 *Total score: 585*
 <br />
+
+---
 
 ###### IT ZONE (IT Club In Ton Duc Thang University)
 **In 2019:**
@@ -82,19 +83,19 @@ ___
 <br />
 
 # SOFT SKILLS
-___
+
 *🌱 Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic.*
 <br />
 *💪 Ability: Management, Independent, Problem-solving, Teamwork, Communication, and Presentation.*
 <br />
 
 # LANGUAGES
-___
-_English, Vietnamese_
+
+*English, Vietnamese.*
 
 
 # CONTACTS
-___
+
 [<img align="left" alt="Linkedin" width="40px" style="margin-left:16px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
 
 [<img align="left" alt="Gmail" width="52px" style="margin-left:16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][gmail]
